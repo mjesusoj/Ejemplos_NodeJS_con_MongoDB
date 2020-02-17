@@ -1,0 +1,23 @@
+{
+  "name": "ejemplos_node_con_mongo",
+  "version": "1.0.0",
+  "description": "Ejemplos de NodeJS, integrando MongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjesusoj/Ejemplos_NodeJS_con_MongoDB.git"
+  },
+  "author": "mjesusoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjesusoj/Ejemplos_NodeJS_con_MongoDB/issues"
+  },
+  "homepage": "https://github.com/mjesusoj/Ejemplos_NodeJS_con_MongoDB#readme"
+}
